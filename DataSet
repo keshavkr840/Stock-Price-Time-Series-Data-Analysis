@@ -1,0 +1,13 @@
+The S&P 500, or simply the S&P, is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States.
+It is one of the most commonly followed equity indices.
+Historical stock data for all current S&P 500 companies
+
+
+You can get the dataset from Kaggle link below :
+https://www.kaggle.com/camnugent/sandp500
+
+I used a subset of that dataset the link to GitHub repo of which can be found on the same Kaggle dataset
+I am attaching the link of that GitHub rep as well.
+https://github.com/CNuge/kaggle-code/tree/master/stock_data
+
+use individual_stocks_5yr.zip for the analysis
